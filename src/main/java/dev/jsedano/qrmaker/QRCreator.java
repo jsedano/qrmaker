@@ -1,3 +1,5 @@
+package dev.jsedano.qrmaker;
+
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.EncodeHintType;
 import com.google.zxing.WriterException;
